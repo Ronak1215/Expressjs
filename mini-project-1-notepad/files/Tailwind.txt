@@ -1,0 +1,2 @@
+Add the Play CDN script to your HTML
+Add the Play CDN script tag to the <head> of your HTML file, and start using Tailwind’s utility classes to style your content.
